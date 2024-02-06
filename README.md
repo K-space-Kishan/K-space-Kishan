@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumar Kishan
-- 👀 I’m interested in Technical, AI, Programing, Data Sciences
+- 👀 I’m interested in Technical, AI, Programing, Data Sciences, Space & Astronomy
 - 🌱 I’m currently learning Data Science
 - 😄 Pronouns: He/him
 
